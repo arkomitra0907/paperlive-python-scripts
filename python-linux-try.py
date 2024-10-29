@@ -1,2 +1,3 @@
-print("this is first try git linux")
-print("added one line")
+print("this is my linux git push")
+print("second line added")
+
